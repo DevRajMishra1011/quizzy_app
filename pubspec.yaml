@@ -64,6 +64,10 @@ flutter:
   assets:
   
     - assets/images/quiz-logo.png
+    - assets/images/quizzapp1.jpeg
+    - assets/images/quizzapp2.jpeg
+    - assets/images/quizzapp3.jpeg
+    
     
 
   # An image asset can refer to one or more resolution-specific "variants", see

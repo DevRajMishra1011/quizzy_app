@@ -1,16 +1,34 @@
-# adv_basics
+# quizz-app
+This project was created while following a Flutter & Dart course from udemy.
+# Flutter Quiz App
 
-A new Flutter project.
+## Features
 
-## Getting Started
+- Multiple-choice questions
+- Answer tracking
+- Results screen
+- Restart quiz functionality
+- Custom UI styling
 
-This project is a starting point for a Flutter application.
+## Concepts Used
 
-A few resources to get you started if this is your first Flutter project:
+- StatefulWidget
+- StatelessWidget
+- Callback Functions
+- Lists & Maps
+- Row & Column
+- SingleChildScrollView
+- Dynamic Widget Generation using map()
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+ ## Screenshots
+
+<p align="center">
+  <img src="assets/images/quizzapp1.jpeg" alt="Start Screen" width="250" />
+  <img src="assets/images/quizzapp2.jpeg" alt="Question Screen" width="250" />
+  <img src="assets/images/quizzapp3.jpeg" alt="Result Screen" width="250" />
+</p>
