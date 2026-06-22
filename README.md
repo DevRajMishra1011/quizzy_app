@@ -1,11 +1,6 @@
 # Quizzy App
 
-🚀 **Latest APK:**  
-[Download Here](https://github.com/DevRajMishra1011/quizzy_app/releases/tag/version)
-
-# quizz-app
-This project was created while following a Flutter & Dart course from udemy.
-# Flutter Quiz App
+This project was created while following a Flutter & Dart course from udemy. It's a flutter quiz that works both in android and ios.
 
 ## Features
 
@@ -37,3 +32,8 @@ This project was created while following a Flutter & Dart course from udemy.
   <img src="assets/images/quizzapp2.jpeg" alt="Question Screen" width="250" />
   <img src="assets/images/quizzapp3.jpeg" alt="Result Screen" width="250" />
 </p>
+
+## Download apk 
+
+🚀 **Latest APK:**  
+[Download Here](https://github.com/DevRajMishra1011/quizzy_app/releases/tag/version)
