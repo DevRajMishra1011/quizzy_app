@@ -1,3 +1,8 @@
+# Quizzy App
+
+🚀 **Latest APK:**  
+[Download Here](https://github.com/DevRajMishra1011/quizzy_app/releases/tag/version)
+
 # quizz-app
 This project was created while following a Flutter & Dart course from udemy.
 # Flutter Quiz App
